@@ -1,9 +1,32 @@
-### Well hello there!
+DESCRIPCION DEL PROYECTO
+Este repositorio contiene la práctica de "Entornos de Desarrollo" realizada en grupo.
+El objetivo ha sido simular un flujo de trabajo real, donde cada integrante ha trabajado
+en su propia rama y luego hemos unificado todo, resolviendo los conflictos que han surgido.
 
-This repository is meant to provide an example for *forking* a repository on GitHub.
+EXPLICACION DE LOS ARCHIVOS
 
-Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
+index.html
+Es el archivo principal de la página web. Este archivo ha sido el centro de nuestra actividad.
+Contiene las modificaciones simultáneas de todas las integrantes del grupo.
+Tal y como se puede ver en el código, hemos logrado fusionar:
+Los textos introductorios de Marta González.
+Las ediciones en mayúsculas y pruebas de cambios de Paula Rivas.
+Las múltiples líneas de prueba de ramas y ediciones de Laura Rubio.
 
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
+   El resultado final muestra que hemos sabido resolver los conflictos manuales al mezclar
+   el trabajo de las tres en un solo documento.
 
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+styles.css
+Es la hoja de estilos que da formato a la web. Define el tamaño de la imagen del gato (Octocat),
+los márgenes y la tipografía (Courier New) que se aplica a nuestros textos.
+
+GIT_LOG.md (o .txt si corresponde)
+Es el documento de registro donde detallamos:
+El reparto de tareas.
+Los comandos de Git que hemos usado (commit, checkout, merge, stash, etc.).
+La explicación técnica de cómo resolvimos los choques de código en index.html.
+
+AUTORES DEL PROYECTO
+Marta
+Paula
+Laura
